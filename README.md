@@ -1,65 +1,91 @@
-# 📦 Integration Bang and Olufsen
+# **Integration Bang & Olufsen**  
 
-## 🧭 Overview
-- Short Summary of the app and what problem it solves. 
-- Include a screnshot of GIF here is possible.
-![Screenshot](./assets/screenshot.png) <!-- Replace with your image path -->
+## 🧭 Overview  
+**Integration Bang & Olufsen** is a high-end marketing website built to showcase premium audio-visual products, including speakers, smart home integrations, and entertainment systems. The site was developed in WordPress using **Elementor**, with a clean and elegant design that follows Bang & Olufsen's international branding standards.
 
-## 💡 Idea & Concept
-- What inspired this? 
-- Who is it for? 
+![Screenshot](./assets/bangolufsen_preview.png)
 
-## ✨ Features & Functionality
-- Bullet list of main features 
+---
 
-## ⚙️ Tech Stack
-- Language(s), framework, libraries, services, tools, deployment platform. 
+## 💡 Idea & Concept  
+This project aimed to combine luxury branding with product education and lead generation. The focus was on modern tech integration, lifestyle solutions, and smart home experiences while maintaining minimalistic elegance and seamless performance across devices.
 
-## 🏗 Architecture & Design
-- Describe how its structured (e.g., MVC, Monolith, Microservices)
-- Include diagrams if applicable 
+---
 
-## 🚀 Installation & Setup
-- **Prerequisites:** 
+## ✨ Features & Functionality  
+- Elegant, brand-compliant layout with interactive elements  
+- Product pages for speakers, TVs, headphones, home integration systems  
+- Smart home system highlights with B&O control panels  
+- Lead capture forms integrated with **HubSpot CRM**  
+- Blog and inspiration sections to highlight use cases  
+- Map of showrooms and smart integration offices  
+- Email campaigns & subscription opt-ins  
+- Mobile-first responsive design  
 
-- **Installation Steps:** 
+---
 
-- **Deployment Environment:** 
+## ⚙️ Tech Stack  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)  
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 
-- **Access:** 
+---
 
-> **Note:** 
+## 🏗 Architecture & Design  
+- Clean layout using Elementor sections and global theme elements  
+- Product taxonomy with CTA buttons and lead forms  
+- Embedded maps for location-aware integration partners  
+- Optimized images and video headers for high-performance UX  
+- SEO and schema tagging for visibility and indexing  
 
-## 🧑‍💻 Usage
-- How to use the software after setup 
-- CLI Commands, UI Walkthrough, or API Endpoints. 
+---
 
-## 🔍 My Role & Contributions
-- 💼 Full-stack development
-- 🧱 Architecture design
-- 🐞 Bug fixing and optimization
-- 🤝 Collaboration with design/product teams
+## 🚀 Installation & Setup  
+1. Deployed on Epic Inspired’s dedicated hosting  
+2. Installed premium Elementor template matching B&O brand kit  
+3. Customized theme, fonts, layout grids  
+4. Integrated with HubSpot for marketing workflows  
+5. Launched email capture and analytics tracking tools  
 
-## 🧗 Challenges & Learnings
-- Major issues you faced and how you overcome them.
-- What you learned from the process.
+---
 
-## 📈 Future Enhancements
-- Features you plan to build. 
-- Known bugs or technical debt. 
+## 🧑‍💻 My Role & Contributions  
+- 🎯 Full site customization using WordPress + Elementor  
+- 🧠 Design adaptation for B&O branding  
+- ⚙️ Integration with HubSpot forms and CRM  
+- 📬 SEO optimization and performance tuning  
+- 🖥️ Server and plugin maintenance  
 
-## 🤝 Contributing
-- How other can contribute (if open source)
+---
 
-## 🪪 License
-⚠️ License Notice  
-This repository was originally published under the MIT License.  
-As of April 22, 2025, the license has been changed to **CC BY-NC-ND 4.0**.  
-See the LICENSE file for details.
+## 🧗 Challenges & Learnings  
+- Maintaining performance while using rich multimedia content  
+- Aligning pixel-perfect designs with strict brand guidelines  
+- Making the product showcase highly interactive but lightweight  
+- Working under high visibility with international traffic  
 
-## 🔗 Additional Resources
-- **Documentation:** 
+---
 
-- **Related Projects:** 
+## 📈 Future Enhancements  
+- Product comparison tool  
+- Enhanced search by feature or product line  
+- Integration with 3D or AR viewers for product exploration  
+- Automated follow-ups via HubSpot workflows  
 
-- **Live Demo Link:** 
+---
+
+## 🤝 Contributing  
+Internal project developed by Epic Inspired’s team. Contributions are private and coordinated internally.
+
+---
+
+## 🪪 License  
+All content and branding comply with Bang & Olufsen's usage terms and the agency’s NDA.
+
+---
+
+## 🔗 Additional Resources  
+- [Epic Inspired Project Dashboard](../GitHubDashboard.md)  
+- [Related Project: BeoCanada](../BeoCanada.md)  
