@@ -3,7 +3,7 @@
 ## 🧭 Overview  
 **Integration Bang & Olufsen** is a high-end marketing website built to showcase premium audio-visual products, including speakers, smart home integrations, and entertainment systems. The site was developed in WordPress using **Elementor**, with a clean and elegant design that follows Bang & Olufsen's international branding standards.
 
-![Screenshot](./assets/bangolufsen_preview.png)
+![Screenshot](./assets/1.png)
 
 ---
 
